@@ -1,1 +1,1 @@
-
+I created a fully responsive Netflix clone using only HTML, CSS, and media queries. The design adapts seamlessly across all screen sizes, from mobile devices to large desktop displays. This project demonstrates my skills in layout design, responsiveness, and attention to detail without using any external frameworks or JavaScript.
